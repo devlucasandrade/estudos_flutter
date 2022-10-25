@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725740665788",
+    "project_id": "chat-cod3r-e424f",
+    "storage_bucket": "chat-cod3r-e424f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725740665788:android:39e8c4aa130d16350fc9b9",
+        "android_client_info": {
+          "package_name": "br.com.luc45.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725740665788-bji1j6ktd55ue44mnk9skg3nuglov7sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClEthLTyuJMjy68dWW5Y6bI_o8fq4sdWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725740665788-bji1j6ktd55ue44mnk9skg3nuglov7sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
