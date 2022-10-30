@@ -23,14 +23,6 @@ class TasksState extends Equatable {
       allTasks: List<Task>.from(map['allTasks']?.map((x) => Task.fromMap(x))),
       removedTasks:
           List<Task>.from(map['removedTasks']?.map((x) => Task.fromMap(x))),
-      // allTasks: List<Task>.from(
-      //   (map['allTasks'] as List<int>)
-      //       .map<Task>((x) => Task.fromMap(x as Map<String, dynamic>)),
-      // ),
-      // removedTasks: List<Task>.from(
-      //   (map['removedTasks'] as List<int>)
-      //       .map<Task>((x) => Task.fromMap(x as Map<String, dynamic>)),
-      // ),
     );
   }
 }
