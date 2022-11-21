@@ -4,7 +4,6 @@ import 'package:flutter_tasks_app/screens/tabs_screen.dart';
 import 'package:flutter_tasks_app/services/app_route.dart';
 import 'package:flutter_tasks_app/services/app_theme.dart';
 import 'package:path_provider/path_provider.dart';
-import 'screens/pending_tasks_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
