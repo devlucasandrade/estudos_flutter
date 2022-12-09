@@ -14,11 +14,11 @@ Um projeto para aplicação de estudos sobre consumo de API´s, visando aprender
 
 ## Screenshots
 <p float="left">
-  <img alt="Home Page" src="estudos_flutter/appconsumo_api/screenshots/app_consumo_api.png" width="200" />
-  <img alt="Lista de Todos" src="estudos_flutter/appconsumo_api/screenshots/jsonplaceholdernew.png" width="200" />
-  <img alt="Lista de Todos" src="estudos_flutter/appconsumo_api/screenshots/openweathernew.png" width="200" />
-  <img alt="Lista de Todos" src="estudos_flutter/appconsumo_api/screenshots/studioghiblipage.png" width="200" />
-  <img alt="Lista de Todos" src="estudos_flutter/appconsumo_api/screenshots/studioghiblidetail.png" width="200" />
+  <img alt="Home Page" src="https://github.com/devlucasandrade/estudos_flutter/blob/main/app_consumo_api/screenshots/app_consumo_api.png" width="200" />
+  <img alt="JsonPlaceHolder" src="https://github.com/devlucasandrade/estudos_flutter/blob/main/app_consumo_api/screenshots/jsonplaceholdernew.png" width="200" />
+  <img alt="OpenWeather" src="https://github.com/devlucasandrade/estudos_flutter/blob/main/app_consumo_api/screenshots/openweathernew.png" width="200" />
+  <img alt="StudioGhibliPage" src="https://github.com/devlucasandrade/estudos_flutter/blob/main/app_consumo_api/screenshots/studioghiblipage.png" width="200" />
+  <img alt="StudioGhibliDetail" src="https://github.com/devlucasandrade/estudos_flutter/blob/main/app_consumo_api/screenshots/studioghiblidetail.png" width="200" />  
 </p>
 <hr>
 
