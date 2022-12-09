@@ -7,8 +7,7 @@ Um repositório unificado dos aplicativos criados para estudo e aplicação na t
 * [Flutter BloC Studies](#flutterbloc_studies)
 * [MobX Studies App](#mobx_studies_app)
 
-<br><br>
-
+<br>
 
 ## app_consumo_api
 Um projeto para aplicação de estudos sobre consumo de API´s, visando aprender sobre esse consumo, seus métodos e pacotes utilizados, bem como de sua apresentação de dados nas telas no flutter.
